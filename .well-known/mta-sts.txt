@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
 mx: dsatleighfield-org.mail.protection.outlook.com
-max_age: 88682877 
+max_age: 886828
